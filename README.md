@@ -1,8 +1,9 @@
 <h1>👋 Hi there, I'm Pierre-Louis DELAPORTE</h1>
 
-- 🌱 I’m currently learning **C++, Kubernetes**
-  
+
 - I'm a Software Engineer @ SFR
+  
+- 🌱 I’m currently learning **C++, Kubernetes**
   
 - 👨‍💻 All of my projects are available at [https://pierre-louis-delaporte.fr/](https://pierre-louis-delaporte.fr/)
   
