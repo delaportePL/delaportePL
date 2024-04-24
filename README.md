@@ -1,5 +1,4 @@
-<h1 align="center">Hi 👋, I'm Pierre-Louis DELAPORTE</h1>
-<h3 align="center">Passionate and enthusiastic about changing the world through software development.</h3>
+<h1>👋 Hi there, I'm Pierre-Louis DELAPORTE</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=delaportepl&label=Profile%20views&color=0e75b6&style=flat" alt="delaportepl" /> </p>
 
