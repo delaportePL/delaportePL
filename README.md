@@ -1,12 +1,8 @@
 <h1>👋 Hi there, I'm Pierre-Louis DELAPORTE</h1>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=delaportepl&label=Profile%20views&color=0e75b6&style=flat" alt="delaportepl" /> </p>
-
+- I'm a Software Engineer @ SFR
 - 🌱 I’m currently learning **C++, Kubernetes**
-
 - 👨‍💻 All of my projects are available at [https://pierre-louis-delaporte.fr/](https://pierre-louis-delaporte.fr/)
-
-- 📫 How to reach me **pierre-louisdelaporte@hotmail.fr**
+- 📫 How to reach me: **pierre-louisdelaporte@hotmail.fr**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
