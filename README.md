@@ -1,5 +1,5 @@
 <h1>👋 Hi there, I'm Pierre-Louis DELAPORTE</h1>
-<h2>I'm a Software Engineer @ SFR</h2>
+- I'm a Software Engineer @ SFR
 
 - 🌱 I’m currently learning **C++, Kubernetes**
   
