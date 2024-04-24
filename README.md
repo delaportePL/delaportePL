@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning **C++, Kubernetes**
   
 - 👨‍💻 All of my projects are available at [https://pierre-louis-delaporte.fr/](https://pierre-louis-delaporte.fr/)
-		<td align="center"
+
 - 📫 Reach me by email **pierre-louisdelaporte@hotmail.fr** or 
 <a href="https://linkedin.com/in/delaportepl" target="blank">Linkedin</a>
 
