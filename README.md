@@ -13,6 +13,9 @@
 <h3 align="left">Skills</h3>
 <table align="center">
 	<tr>
+		<td align="center">
+			<b>Languages</b>
+		</td>
 		<td align="center">	
 			<a href="https://www.java.com" target="_blank" rel="noreferrer">
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="48" height="48"/> 
@@ -45,32 +48,9 @@
 		</td>
 	</tr>
 	<tr>
-		<td align="center">	
-			<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> 
-			</a>
-			<br>MongoDB
+		<td align="center">
+			<b>Framework</b>
 		</td>
-		<td align="center">	
-			<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48"/> 
-			</a>
-			<br>MySQL
-		</td>
-		<td align="center">	
-			<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
-				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="48" height="48"/> 
-			</a>
-			<br>PostgreSQL
-		</td>
-		<td align="center">	
-			<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
-				<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="48" height="48"/> 
-			</a>
-			<br>SQLite
-		</td>
-	</tr>
-	<tr>
 		<td align="center">	
 			<a href="https://spring.io/" target="_blank" rel="noreferrer">
 				<img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="48" height="48"/> 
@@ -102,7 +82,39 @@
 			<br>React
 		</td>
 	</tr>
-		<tr>
+	<tr>
+		<td align="center">
+			<b>Database</b>
+		</td>
+		<td align="center">	
+			<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="48" height="48"/> 
+			</a>
+			<br>MongoDB
+		</td>
+		<td align="center">	
+			<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="48" height="48"/> 
+			</a>
+			<br>MySQL
+		</td>
+		<td align="center">	
+			<a href="https://www.postgresql.org" target="_blank" rel="noreferrer">
+				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="48" height="48"/> 
+			</a>
+			<br>PostgreSQL
+		</td>
+		<td align="center">	
+			<a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+				<img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="48" height="48"/> 
+			</a>
+			<br>SQLite
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			<b>DevOps</b>
+		</td>
 		<td align="center">	
 			<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
 				<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="48" height="48"/> 
@@ -129,6 +141,9 @@
 		</td>
 	</tr>
 	<tr>
+		<td align="center">
+			<b>Web</b>
+		</td>
 		<td align="center">	
 			<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 				<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="48" height="48"/> 
