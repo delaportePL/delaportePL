@@ -1,20 +1,20 @@
 <h1>👋 Hi there, I'm Pierre-Louis DELAPORTE</h1>
 
 
-- I'm a Software Engineer @ SFR
+- I'm a **Software Engineer @ SFR**
   
-- 🌱 I’m currently learning **C++, Kubernetes**
+- 🌱 I’m currently learning **C++** and **Kubernetes**
   
 - 👨‍💻 All of my projects are available at [https://pierre-louis-delaporte.fr/](https://pierre-louis-delaporte.fr/)
 
-- 📫 Reach me by email **pierre-louisdelaporte@hotmail.fr** or 
-<a href="https://linkedin.com/in/delaportepl" target="blank">Linkedin</a>
+- 📫 Reach me **pierre-louisdelaporte@hotmail.fr** or 
+**[https://linkedin.com/in/delaportepl](Linkedin)**
 
 <h3 align="left">Skills</h3>
 <table align="center">
 	<tr>
 		<td align="center">
-			<b>Languages</b>
+			<b>Language</b>
 		</td>
 		<td align="center">	
 			<a href="https://www.java.com" target="_blank" rel="noreferrer">
@@ -110,6 +110,7 @@
 			</a>
 			<br>SQLite
 		</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td align="center">
@@ -139,6 +140,7 @@
 			</a>
 			<br>Linux
 		</td>
+		<td></td>
 	</tr>
 	<tr>
 		<td align="center">
@@ -168,5 +170,6 @@
 			</a>
 			<br>Bootstrap
 		</td>
+		<td></td>
 	</tr>
 </table>
